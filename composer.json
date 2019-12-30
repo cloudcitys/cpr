@@ -1,0 +1,14 @@
+{
+    "name": "cloudcitys/cpr",
+    "description": "a test composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ei",
+            "email": "karo_s@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
